@@ -2,4 +2,4 @@
 New MacOS executor (beta) 
 
 release soon 
-69% unc currently
+88% unc currently
